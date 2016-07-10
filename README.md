@@ -1,7 +1,9 @@
 FastTranslucentShader
 ===
 
-> Fast translucent object rendering with GLSL. This program is an implementation of the paper, "Real-time rendering of deformable heterogeneous translucent objects using multiresolution splatting".
+> Fast translucent object rendering with GLSL. This program is an implementation of the paper, "Real-time rendering of deformable heterogeneous translucent objects using multiresolution splatting" [1].
+
+[[1] Chen et al., "Real-time rendering of deformable heterogeneous translucent objects using multiresolution splatting", The Visual Computer, vol. 28, No. 6, pp. 701-711, 2012.](http://link.springer.com/article/10.1007/s00371-012-0704-1)
 
 ## Build
 
